@@ -1,5 +1,12 @@
 Learning OpenCV 3
 ==========
+This the impatently transcribed version of the book examples, and practice problem solving examples, as transcribed by FossBoss.
+The mainline is not out yet, but youre reading the book, "Learning OpenCV3" and transcribing would be a pain. 
+
+This repo should be obsoleted, once the main-line code is actualy posted, but prehaps improvements will present themselves here.
+
+
+
 
 This is the example code that accompanies Learning OpenCV 3 by Adrian Kaehler and Gary Bradski (9781491937990). 
 
